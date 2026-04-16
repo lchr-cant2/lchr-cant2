@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Laura 👋
+
+Systems admnistrator with 5 years of MSP experience based in Dallas, TX 🌞
 
 <!--
 **lchr-cant2/lchr-cant2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
