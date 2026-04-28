@@ -10,7 +10,7 @@ Systems admnistrator with 5 years of MSP experience based in Dallas, TX 🌞
 - **Device Management:** JAMF, NinjaOne, Addigy, ConnectWise Automate, Kaseya, Intune Autopilot, ABM, DEP
 
 ## 📁 Featured Projects
-- 🔄 [automations-userManagement] (https://github.com/lchr-cant2/automations-userManagement)
+- 🔄 [automations-userManagement](https://github.com/lchr-cant2/automations-userManagement)
 <!--
 **lchr-cant2/lchr-cant2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
